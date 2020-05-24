@@ -3,3 +3,4 @@ def using_push(array, string)
   colors_in_the_rainbow.push("violet")
 end
 p using_push(nil,nil)
+
