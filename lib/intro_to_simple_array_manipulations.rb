@@ -16,4 +16,4 @@ def using_pop(array)
   antarctica = @continents.pop
 
 end
-puts using_pop(nil)
+p using_pop(nil)
