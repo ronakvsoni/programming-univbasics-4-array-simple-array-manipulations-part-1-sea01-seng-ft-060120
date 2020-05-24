@@ -24,3 +24,13 @@ def pop_with_args(array)
 end
 p pop_with_args(nil)
 
+def using_shift(array)
+  favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
+  lagos = my_favorite_cities.shift 
+  lagos
+end
+p favorite_cities(nil)
+
+
+
+
