@@ -4,3 +4,8 @@ def using_push(array, string)
 end
 p using_push(nil,nil)
 
+def using_unshift(array, string)
+   bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
+   bouroughs_in_nyc.unshift("Staten Island")
+end
+p using_unshift(nil,nil)
