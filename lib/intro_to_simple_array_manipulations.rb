@@ -25,7 +25,7 @@ end
 p pop_with_args(nil)
 
 def using_shift(array)
-  my_favorite_citiesfavorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
+  my_favorite_cities = ["Lagos", "Cape Town", "Nairobi", "San Francisco", "Gaborone", "New York", "Berlin", "London"]
   lagos = my_favorite_cities.shift 
   lagos
 end
